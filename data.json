@@ -1,0 +1,90 @@
+{
+    "webresults": [
+      {
+        "logo":"https://serpapi.com/searches/651eed11660dbd1f8fb0e53a/images/1c40994bdd61cb0db98aee6c7cc09e7c10ccfc3d83e52657eac6d06d02bf33c5.png",
+        "type": "Stanford University",
+        "title": "Stanford University",
+        "link": "https://www.stanford.edu/",
+        "description": "Stanford was founded almost 150 years ago on a bedrock of societal purpose. Our mission is to contribute to the world by educating students for lives of ..."
+      },
+        {
+          "logo": "https://serpapi.com/searches/651eed11660dbd1f8fb0e53a/images/1c40994bdd61cb0db98aee6c7cc09e7ca01b6370d512606e989d5bc3bcfffce8.png",
+          "type": "Wikipedia",
+          "title": "Stanford University - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Stanford_University",
+          "description": "Stanford University is a private research university in Stanford, California. The campus occupies 8,180 acres, among the largest in the United States, and enrolls over 17,000 students. Stanford is widely considered to be one of the most prestigious universities in the world."
+        },
+        {
+          "logo": "https://serpapi.com/searches/651ef4b547ccf1d3603aae37/images/ac9eb4f114f08ac8b35c9a84ff6db29799629c94cfedf7e6b8ae7a32e974a6db.png",
+          "type": "LinkedIn",
+          "title": "Stanford University Employees, Location, Alumni",
+          "link": "https://www.linkedin.com/school/stanford-university/",
+          "description": "Stanford is a place of discovery, creativity and innovation located in the San Francisco Bay Area on the ancestral land of the Muwekma Ohlone Tribe."
+        },
+    
+        {
+          "logo": "https://serpapi.com/searches/651eed11660dbd1f8fb0e53a/images/1c40994bdd61cb0db98aee6c7cc09e7cd9cbc7cec47f16d5b2b5d4d5e8fe6f77.png",
+          "type": "U.S.News",
+          "title": "Stanford University - Profile, Rankings and Data",
+          "link": "https://www.usnews.com/best-colleges/stanford-university-1305",
+          "description": "Stanford is also the only comprehensive university among the top ranked schools with law, medicine, engineering, education, sustainability/environment, in ..."
+        },
+        {
+          "logo": "https://serpapi.com/searches/651eef9de93ff49bae70694b/images/d416c4b816f315f1ce622ae24f022a1c759f1f549f3c32575112a1a473165d10.png",
+          "type": "Forbes",
+          "title": "Stanford University",
+          "link": "https://www.forbes.com/colleges/stanford-university/?sh=457d7e6f3e20",
+          "description": "Stanford University ; #2. In Private Colleges ; #2. In Research Universities ; #1. In The West."
+        },
+        {
+          "logo": "https://serpapi.com/searches/651eef413a218ab002716880/images/bc23c5edbfade4dad90c896d8ba125aaf6fbcd1134c2bde727b12f4df1cb2702.png",
+          "type": "Collegedunia",
+          "title": "Stanford University Rankings 2023: World Rankings & ... ",
+          "link": "https://collegedunia.com/usa/university/2074-stanford-university-stanford/ranking",
+          "description": "Stanford University has consecutively ranked among the top 5 universities in the world. Stanford University is ranked #3 globally by QS Rankings 2023."
+        },
+        {
+          "logo":"https://serpapi.com/searches/651ef475d5a531e73cd0ccfa/images/2374f084ff28071bff5dce73c1b2c27a2a04371d86e5424f6fdd6f160d95f6e3.png",
+          "type": "Shiksha.com",
+          "title": "Stanford University: Ranking, Admission 2024, Cost & Fees ",
+          "link": "https://www.shiksha.com/studyabroad/usa/universities/stanford-university",
+          "description": "Stanford University is one of the world's leading research institutions."
+        },
+        {
+          "logo": "https://serpapi.com/searches/652f8113fe41d0a10c8a253b/images/4c2ade086497d926a1677fedbf2acaa3364562f4660de7e0789c9fff940c8d83.png",
+          "type": "University of Oxford",
+          "title": "University of Oxford",
+          "link": "https://www.ox.ac.uk/",
+          "description": "Oxford University provides world-class research and education to benefit society on a local, regional, national and global scale."
+        },
+        {
+            "logo": "https://serpapi.com/searches/651eed11660dbd1f8fb0e53a/images/1c40994bdd61cb0db98aee6c7cc09e7ca01b6370d512606e989d5bc3bcfffce8.png",
+            "type": "Wikipedia",
+            "title": "University of Oxford - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/University_of_Oxford",
+            "description": "The University of Oxford is a collegiate research university in Oxford, England. There is evidence of teaching as early as 1096, making it the oldest ..."
+          },
+        
+          {
+            "logo": "https://serpapi.com/searches/651eed11660dbd1f8fb0e53a/images/1c40994bdd61cb0db98aee6c7cc09e7cd9cbc7cec47f16d5b2b5d4d5e8fe6f77.png",
+            "type": "U.S.News",
+            "title": "University of Oxford in United Kingdom",
+            "link": "https://www.usnews.com/education/best-global-universities/university-of-oxford-503637",
+            "description": "University of Oxford is ranked #5 in Best Global Universities. Schools are ranked according to their performance across a set of widely accepted indicators of ..."
+          },
+          {
+            "logo": "https://serpapi.com/searches/651eef9de93ff49bae70694b/images/d416c4b816f315f1ce622ae24f022a1c759f1f549f3c32575112a1a473165d10.png",
+            "type": "forbes",
+            "title": "Oxford University Press - homepage",
+            "link": "https://global.oup.com/?cc=in",
+            "description": "We are a department of the University of Oxford and share the objective of excellence in research, scholarship, and education by publishing worldwide. More ..."
+          },
+          {
+            "logo":"https://serpapi.com/searches/652f7fd223488404ba8efc0e/images/9b6c3284330487909151e2d7f9c31808985c3b9ca7299bb391382968f9575f78.png",
+            "type": "Top Universities",
+            "title": "University of Oxford : Rankings, Fees & Courses Details",
+            "link": "https://www.topuniversities.com/universities/university-oxford",
+            "description": "Oxford offers 48 undergraduate degrees in a wide range of disciplines, from the traditional sciences through to humanities, law, languages, and fine art."
+          }
+      ]
+}
